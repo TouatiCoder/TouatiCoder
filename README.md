@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AYOUB TOUATI</h1>
 
 <h3 align="center">
-Full-Stack Developer • E-Commerce • SEO & Digital Solutions
+Full-Stack Developer & Digital Solutions
 </h3>
 
 <p align="center">
